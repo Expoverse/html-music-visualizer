@@ -11,4 +11,7 @@ There are other resources you can visit to learn more about the JavaScript and o
 - [Cascading Styles Sheets and how to use them with CSS](https://appcode.app/how-to-use-css-cascading-style-sheets-to-style-html/)
 - [Learning the basics of JavaScript](https://appcode.app/javascript-fundamentals-a-dinosaurs-cheat-sheet/)
 
+# Citations
+
+- AppCode. (2022, December 13). How to create an HTML music visualizer with examples. AppCode. Retrieved January 13, 2023, from [https://appcode.app/how-to-create-an-html-music-visualizer-with-examples/](https://appcode.app/how-to-create-an-html-music-visualizer-with-examples/)
 
