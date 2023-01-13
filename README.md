@@ -1,6 +1,6 @@
 # HTML Music Visualizer
 
-![Diagram of the HTML Music Visualizer](https://raw.githubusercontent.com/Expoverse/html-music-visualizer/main/HTML-and-CSS-Music-Visualizer.png)
+![Diagram of the HTML Music Visualizer](HTML-and-CSS-Music-Visualizer.png)
 
 This repository is a the code example of an HTML, CSS, and JavaScript music visualizer. 
 
