@@ -5,7 +5,7 @@ You can read the [article on music vizulizers on Appcode](https://appcode.app/ho
 
 The mentioned article covers how to recreate the code in this repo step-by-step with addional resouces on the topic. 
 
-Other resources you can visit to learn more about the JavaScript and other languages included in this repo are:
+There are other resources you can visit to learn more about the JavaScript and other languages included in this repository. Let's list a few of those resources.
 
 - [Using your first HTML elements](https://appcode.app/how-to-create-your-first-html-elements-with-examples/)
 - [Cascading Styles Sheets and how to use them with CSS](https://appcode.app/how-to-use-css-cascading-style-sheets-to-style-html/)
