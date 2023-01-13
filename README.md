@@ -2,13 +2,13 @@
 
 ![Diagram of the HTML Music Visualizer](HTML-and-CSS-Music-Visualizer.png)
 
-This repository is a the code example of an HTML, CSS, and JavaScript music visualizer. 
+This repository is a code example of an HTML, CSS, and JavaScript music visualizer.
 
-You can read the [article on creating a music vizulizers](https://appcode.app/how-to-create-an-html-music-visualizer-with-examples/) found on Appcode, which is a [developer reference and resource website](https://appcode.app/). The references includes tutorials, how-tos, documention, and specs on the HTML, CSS, and JavaScript langauge. 
+You can read the [article on creating music visualizers](https://appcode.app/how-to-create-an-html-music-visualizer-with-examples/) on Appcode, which is a [developer, a reference, and a resource website](https://appcode.app/). The references include tutorials, how-tos, documentation, and specs on the HTML, CSS, and JavaScript languages. 
 
-The mentioned article covers how to recreate the code in this repo step-by-step with addional resouces on the topic. 
+The article covers how to recreate the code in this repo step-by-step, with additional resources on the topic.
 
-There are other resources you can visit to learn more about the JavaScript and other languages included in this repository. Let's list a few of those resources.
+You can visit other resources to learn more about JavaScript and other languages included in this repository. Let's list a few of those resources.
 
 - [Using your first HTML elements](https://appcode.app/how-to-create-your-first-html-elements-with-examples/)
 - [Cascading Styles Sheets and how to use them with CSS](https://appcode.app/how-to-use-css-cascading-style-sheets-to-style-html/)
