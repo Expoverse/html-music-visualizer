@@ -1,5 +1,7 @@
-# HTML Music Vizulizer
-This repository is a the code example of an HTML, CSS, and JavaScript music vizulizer. 
+# HTML Music Visualizer
+This repository is a the code example of an HTML, CSS, and JavaScript music visualizer. 
+
+![Diagram of the HTML Music Visualizer](https://raw.githubusercontent.com/Expoverse/html-music-visualizer/main/HTML-and-CSS-Music-Visualizer.png)
 
 You can read the [article on music vizulizers on Appcode](https://appcode.app/how-to-create-an-html-music-visualizer-with-examples/), which is a [developer reference resources website](https://appcode.app/). The references includes tutorials, how-tos, documention, and specs on the HTML, CSS, and JavaScript langauge. 
 
